@@ -1,9 +1,7 @@
 This project is made using the course:learn docker from boot.dev
 
-````markdown
 ## Docker Commands & Notes
 
----
 
 ### 🔹 Docker Basics
 
